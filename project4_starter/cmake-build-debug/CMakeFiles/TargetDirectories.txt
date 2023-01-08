@@ -1,0 +1,3 @@
+/Users/weixinyuan/Desktop/project4_starter/cmake-build-debug/CMakeFiles/project4_starter.dir
+/Users/weixinyuan/Desktop/project4_starter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/weixinyuan/Desktop/project4_starter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
